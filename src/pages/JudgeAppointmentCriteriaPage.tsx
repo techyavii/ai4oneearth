@@ -280,7 +280,7 @@ const JudgeAppointmentCriteriaPage = () => {
                     Judge Reveal
                   </h2>
                   {/* <p className="text-xl mb-4 font-semibold">
-                    October 24-25, 2026
+                    April 11-12, 2026
                   </p> */}
                   <p className="text-lg opacity-90 leading-relaxed mb-8">
                     Our distinguished panel of environmental AI experts will be unveiled in March 2026. These industry leaders and researchers will bring unparalleled expertise to evaluate your innovative solutions. Follow our channels for the exciting reveal of these technical visionaries.
