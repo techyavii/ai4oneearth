@@ -24,7 +24,7 @@ const Eligibility = () => {
   ];
 
   const whoCanParticipate = [
-    "Students (Undergraduate, Postgraduate, and PhD)",
+    "Students (Undergraduate, Postgraduate and PhD)",
     "Researchers and Academicians",
     "Industry Professionals and Startups",
     "Independent Developers and AI Enthusiasts",
@@ -34,31 +34,31 @@ const Eligibility = () => {
   const teamComposition = [
     "Participation is allowed individually or in teams.",
     "Each team may consist of 1 to 5 members.",
-    "Team members may be from different institutions, organizations, or countries.",
+    "Team members may be from different institutions organizations or countries.",
     "Each participant can be part of only one team or submission."
   ];
 
   const technicalRequirements = [
-    "Submissions must include an AI-based tool, model, or platform.",
+    "Submissions must include an AI-based tool, model or platform.",
     "Solutions should leverage one or more AI techniques such as:",
     "Machine Learning / Deep Learning",
     "Natural Language Processing (NLP)",
     "Computer Vision",
     "Predictive Analytics",
     "Reinforcement Learning",
-    "Projects must align with at least one UN SDG specified in the challenge tracks."
+    "Projects must align with at least one UN SDG specified in the challenge thematic tracks."
   ];
 
   const originalityEthics = [
     "All submissions must be original work developed specifically for this challenge.",
-    "Use of open-source datasets, frameworks, and APIs is permitted with proper attribution.",
-    "Plagiarism, unethical AI practices, or misuse of data will result in immediate disqualification.",
-    "Solutions must adhere to responsible and ethical AI principles, including fairness, transparency, and privacy."
+    "Use of open-source datasets, frameworks and APIs is permitted with proper attribution.",
+    "Plagiarism, unethical AI practices or misuse of data will result in immediate disqualification.",
+    "Solutions must adhere to responsible and ethical AI principles, including fairness, transparency and privacy."
   ];
 
   const submissionReadiness = [
     "A working prototype or proof-of-concept (PoC)",
-    "A brief project description, including problem statement, AI approach, and SDG alignment",
+    "A brief project description, including problem statement, AI approach and SDG alignment",
     "Impact metrics or expected outcomes",
     "A demo video or live demonstration (if required)"
   ];
@@ -71,7 +71,7 @@ const Eligibility = () => {
 
   const commitment = [
     "Follow all challenge rules and timelines",
-    "Participate in evaluations, demos, and presentations",
+    "Participate in evaluations, demos and presentations",
     "Support the spirit of innovation for sustainability and social good"
   ];
 
@@ -85,10 +85,10 @@ const Eligibility = () => {
           </h2>
           <div className="w-24 h-1 bg-gradient-accent mx-auto mb-8"></div>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed mb-4">
-            AI4OneEarth – AI Tool Development Challenge
+            AI Tool Development Challenge 2026 on OneEarth
           </p>
           <p className="text-lg text-muted-foreground max-w-4xl mx-auto leading-relaxed">
-            The AI Tool Development Challenge is open to passionate innovators who believe in leveraging Artificial Intelligence for sustainable and societal impact. Participants must meet the following eligibility requirements.
+           The AI Tool Development Challenge is open to passionate innovators who believe in leveraging Artificial Intelligence for sustainable and societal impact. Participants must meet the following eligibility requirements.
           </p>
         </div>
 

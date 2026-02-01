@@ -29,7 +29,10 @@ const ResultsPage = () => {
         <div className="max-w-6xl mx-auto text-center">
           {/* Header */}
           <h1 className="text-4xl font-bold text-[#1b4332]">
-            AI4OneEarth 2026
+            AI Tool Development Challenge 2026
+on
+OneEarth
+
           </h1>
           <p className="mt-4 text-gray-600 max-w-2xl mx-auto">
             Official results and feedback from our winning teams.

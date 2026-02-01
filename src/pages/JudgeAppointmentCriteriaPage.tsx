@@ -12,9 +12,9 @@ const JudgeAppointmentCriteriaPage = () => {
       title: "Professional Expertise",
       icon: "🎓",
       points: [
-        "Artificial Intelligence, Machine Learning, Data Science, or related fields",
-        "Sustainability, climate science, healthcare, education, smart cities, or public policy",
-        "Industry innovation, startups, research, or technology leadership"
+        "Artificial Intelligence, Machine Learning, Data Science or related fields",
+        "Sustainability, climate science, healthcare, education, smart cities or public policy",
+        "Industry innovation, startups, research or technology leadership"
       ]
     },
     {
@@ -23,7 +23,7 @@ const JudgeAppointmentCriteriaPage = () => {
       icon: "🌍",
       points: [
         "Strong understanding of the United Nations Sustainable Development Goals (SDGs)",
-        "Experience in applying technology for social, environmental, or economic impact",
+        "Experience in applying technology for social, environmental or economic impact",
         "Ability to assess real-world feasibility and long-term sustainability of solutions"
       ]
     },
@@ -32,8 +32,8 @@ const JudgeAppointmentCriteriaPage = () => {
       title: "Evaluation & Mentorship Experience",
       icon: "🧠",
       points: [
-        "Prior experience as a judge, reviewer, mentor, or evaluator in hackathons, innovation challenges, research forums, or startup competitions",
-        "Ability to provide constructive, unbiased, and actionable feedback to participants"
+        "Prior experience as a judge, reviewer, mentor or evaluator in hackathons, innovation challenges, research forums, or startup competitions",
+        "Ability to provide constructive, unbiased and actionable feedback to participants"
       ]
     },
     {
@@ -41,8 +41,8 @@ const JudgeAppointmentCriteriaPage = () => {
       title: "Ethical & Responsible AI Commitment",
       icon: "⚖️",
       points: [
-        "Demonstrated commitment to ethical, responsible, and transparent AI practices",
-        "Awareness of AI risks such as bias, data privacy, and misuse",
+        "Demonstrated commitment to ethical, responsible and transparent AI practices",
+        "Awareness of AI risks such as bias, data privacy and misuse",
         "Willingness to evaluate solutions through an ethical and societal lens"
       ]
     },
@@ -61,7 +61,7 @@ const JudgeAppointmentCriteriaPage = () => {
       title: "Diversity & Inclusion",
       icon: "🌐",
       points: [
-        "The judging panel will aim for diversity in geography, gender, domain expertise, and professional background",
+        "The judging panel will aim for diversity in geography, gender, domain expertise and professional background",
         "Judges should support inclusive innovation and equitable evaluation"
       ]
     },
@@ -71,7 +71,7 @@ const JudgeAppointmentCriteriaPage = () => {
       icon: "⏱️",
       points: [
         "Judges must be available during designated evaluation periods",
-        "Willingness to participate in review sessions, deliberations, and final evaluations",
+        "Willingness to participate in review sessions, deliberations and final evaluations",
         "Commitment to follow the challenge's evaluation guidelines and timelines"
       ]
     },
@@ -80,39 +80,16 @@ const JudgeAppointmentCriteriaPage = () => {
       title: "Alignment with Challenge Vision",
       icon: "🌟",
       points: [
-        "Strong alignment with the mission and vision of AI4OneEarth",
+        "Strong alignment with the mission and vision of AI Tool Development Challenge",
         "Passion for leveraging AI as a force for sustainability and global good"
       ]
-    }
-  ];
-
-  const appointmentProcess = [
-    {
-      number: "01",
-      title: "Expert Identification",
-      description: "We identify and invite recognized leaders in AI optimization from top research institutions, leading tech companies and innovative startups pushing the boundaries of efficient AI."
-    },
-    {
-      number: "02",
-      title: "Expertise Validation",
-      description: "Comprehensive review of candidates' technical contributions, research impact and industry leadership to ensure they possess the depth of knowledge required for fair evaluation."
-    },
-    {
-      number: "03",
-      title: "Diversity & Balance",
-      description: "We carefully balance our panel across different AI optimization domains, ensuring representation from academia, industry and startup ecosystems for comprehensive evaluation perspectives."
-    },
-    {
-      number: "04",
-      title: "Final Calibration",
-      description: "Selected judges participate in calibration sessions to align on evaluation criteria, ethical guidelines and our vision for advancing the state of efficient AI systems."
     }
   ];
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-background via-background to-muted/20">
       <Navigation />
-      
+
       <main className="pt-20">
         {/* Hero Section */}
         <section className="py-20 bg-gradient-hero relative overflow-hidden">
@@ -131,7 +108,7 @@ const JudgeAppointmentCriteriaPage = () => {
                 AI4OneEarth – AI Tool Development Challenge
               </p>
               <p className="text-lg md:text-xl opacity-90 max-w-4xl mx-auto leading-relaxed">
-                Judges for the AI4OneEarth Challenge are selected to ensure fairness, expertise, diversity, and alignment with the mission of advancing Artificial Intelligence for sustainable development and social good.
+                Judges for the AI Tool Development Challenge are selected to ensure fairness, expertise, diversity and alignment with the mission of advancing Artificial Intelligence for sustainable development and social good.
               </p>
             </div>
           </div>
@@ -142,7 +119,7 @@ const JudgeAppointmentCriteriaPage = () => {
           <div className="container mx-auto px-4">
             <div className="max-w-4xl mx-auto text-center">
               <p className="text-lg text-muted-foreground leading-relaxed mb-8">
-                Our hackathon on April 11-12, 2026 represents the cutting edge of environmental AI research and development. We've meticulously curated a judging panel comprising world-class experts in sustainable technology, environmental data science, and green innovation architectures.
+                Our AI Tool Development Challenge 2026 on April 11-12, 2026 represents the cutting edge of environmental AI research and development. We've meticulously curated a judging panel comprising world-class experts in sustainable technology, environmental data science and green innovation architectures.
               </p>
               <p className="text-lg text-muted-foreground leading-relaxed">
                 Each judge brings decades of experience in evaluating breakthrough solutions that push the boundaries of environmental sustainability while maintaining peak technological performance. They understand the nuanced challenges of deploying AI for environmental impact at scale with minimal resources.
@@ -150,43 +127,6 @@ const JudgeAppointmentCriteriaPage = () => {
             </div>
           </div>
         </section>
-
-        {/* Expertise Domains
-        <section className="py-20 bg-gradient-subtle">
-          <div className="container mx-auto px-4">
-            <div className="text-center mb-16">
-              <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-6">
-                Expertise Domains
-              </h2>
-              <div className="w-24 h-1 bg-gradient-accent mx-auto mb-8"></div>
-              <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
-                Our judges represent the forefront of environmental AI across multiple specialized domains
-              </p>
-            </div>
-
-            <div className="grid md:grid-cols-2 gap-8">
-              {expertiseDomains.map((domain, index) => (
-                <Card key={index} className="bg-white/90 backdrop-blur-sm border-0 shadow-card hover:shadow-earth transition-all duration-300">
-                  <CardContent className="p-8">
-                    <div className="flex items-start space-x-4">
-                      <div className="w-12 h-12 bg-gradient-accent rounded-lg flex items-center justify-center flex-shrink-0">
-                        <domain.icon className="w-6 h-6 text-white" />
-                      </div>
-                      <div>
-                        <h3 className="text-xl font-bold text-foreground mb-4">
-                          {domain.title}
-                        </h3>
-                        <p className="text-muted-foreground leading-relaxed">
-                          {domain.description}
-                        </p>
-                      </div>
-                    </div>
-                  </CardContent>
-                </Card>
-              ))}
-            </div>
-          </div>
-        </section> */}
 
         {/* Selection Criteria */}
         <section className="py-20">
@@ -233,43 +173,6 @@ const JudgeAppointmentCriteriaPage = () => {
           </div>
         </section>
 
-        {/* Appointment Process
-        <section className="py-20 bg-gradient-subtle">
-          <div className="container mx-auto px-4">
-            <div className="text-center mb-16">
-              <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-6">
-                Judge Appointment Process
-              </h2>
-              <div className="w-24 h-1 bg-gradient-accent mx-auto mb-8"></div>
-              <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
-                Our systematic approach ensures we assemble the most qualified evaluation panel
-              </p>
-            </div>
-
-            <div className="grid md:grid-cols-2 gap-8">
-              {appointmentProcess.map((step, index) => (
-                <Card key={index} className="bg-white/90 backdrop-blur-sm border-0 shadow-card hover:shadow-earth transition-all duration-300">
-                  <CardContent className="p-8">
-                    <div className="flex items-start space-x-4">
-                      <Badge variant="outline" className="text-xl font-bold px-3 py-1 border-earth-green text-earth-green">
-                        {step.number}
-                      </Badge>
-                      <div>
-                        <h3 className="text-xl font-bold text-foreground mb-4">
-                          {step.title}
-                        </h3>
-                        <p className="text-muted-foreground leading-relaxed">
-                          {step.description}
-                        </p>
-                      </div>
-                    </div>
-                  </CardContent>
-                </Card>
-              ))}
-            </div>
-          </div>
-        </section> */}
-
         {/* Judge Reveal */}
         <section className="py-20">
           <div className="container mx-auto px-4">
@@ -279,21 +182,18 @@ const JudgeAppointmentCriteriaPage = () => {
                   <h2 className="text-3xl md:text-4xl font-bold mb-6">
                     Judge Reveal
                   </h2>
-                  {/* <p className="text-xl mb-4 font-semibold">
-                    April 11-12, 2026
-                  </p> */}
                   <p className="text-lg opacity-90 leading-relaxed mb-8">
-                    Our distinguished panel of environmental AI experts will be unveiled in March 2026. These industry leaders and researchers will bring unparalleled expertise to evaluate your innovative solutions. Follow our channels for the exciting reveal of these technical visionaries.
+                    Our distinguished panel of environmental AI experts will be unveiled in March 2026. These industry leaders and researchers will bring unparalleled expertise to evaluate your innovative solutions.
                   </p>
-                  
+
                   <div className="border-t border-white/20 pt-8">
                     <h3 className="text-xl font-bold mb-4">
                       Judge Nominations & Technical Inquiries
                     </h3>
                     <div className="flex items-center justify-center space-x-2">
                       <Mail className="w-5 h-5" />
-                      <a 
-                        href="mailto:hackathon@aiforoneearth.com" 
+                      <a
+                        href="mailto:hackathon@aiforoneearth.com"
                         className="text-lg hover:underline"
                       >
                         hackathon@aiforoneearth.com

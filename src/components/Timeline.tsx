@@ -51,8 +51,7 @@ const Timeline = () => {
           </h2>
           <div className="w-24 h-1 bg-gradient-accent mx-auto mb-8"></div>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            Mark your calendars! Here's everything you need to know about important dates and milestones 
-            for AI Tool Challenge 2026.
+           Mark your calendars! Here's everything you need to know about important dates and milestones for AI Tool Development Challenge 2026.
           </p>
         </div>
 

@@ -13,12 +13,12 @@ const ProgramSchedule = () => {
     {
       title: "Two Rounds",
       icon: <Award className="w-5 h-5" />,
-      description: "Selection Round on Day 1 (October 24) and Final Round on Day 2 (October 25)."
+      description: "Selection Round on Day 1 (April 11, 2026) and Final Round on Day 2 (April 12, 2026)."
     },
     {
       title: "Presentation Time",
       icon: <Clock className="w-5 h-5" />,
-      description: "Each team will have 10 minutes to present, followed by 2 minutes for Q&A."
+      description: "Each team will have 5 minutes (presentation) +3 minutes (demo) to present, followed by 2 minutes for Q&A."
     },
     {
       title: "Team Selection",
@@ -30,7 +30,7 @@ const ProgramSchedule = () => {
   const guidelines = [
     "All participants and presenters should join their sessions at least 5 minutes before the scheduled start time.",
     "Please keep your microphone and video turned off unless instructed otherwise.",
-    "Presenters must be fully prepared with their slides and ensure their microphone and camera are functioning properly ahead of time.",
+    "Presenters must be fully prepared with their slides, demo of their prototype and ensure their microphone and camera are functioning properly ahead of time.",
     "Session Judges will invite presenters one by one to deliver their presentations.",
     "Presentations may be prepared in any slide format.",
     "The Day 2 schedule will be published after the completion of the Selection Round."
@@ -42,11 +42,14 @@ const ProgramSchedule = () => {
         {/* Header */}
         <div className="text-center mb-16">
           <h1 className="text-4xl md:text-5xl font-bold text-foreground mb-6">
-            AI4OneEarth 2026 Program Schedule
+            AI Tool Development Challenge 2026
+on
+OneEarth
+ Program Schedule
           </h1>
           <div className="w-24 h-1 bg-gradient-accent mx-auto mb-8"></div>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            You are cordially invited to participate in the AI4OneEarth 2026, which will be conducted online via Google Meet.
+            You are cordially invited to participate in the AI Tool Development Challenge, which will be conducted online via Google Meet.
           </p>
         </div>
 
@@ -73,7 +76,7 @@ const ProgramSchedule = () => {
               <Badge variant="secondary" className="w-fit mx-auto mb-2">Day 1</Badge>
               <CardTitle className="text-2xl text-foreground flex items-center justify-center gap-3">
                 <Calendar className="w-6 h-6 text-earth-green" />
-                October 24, 2026
+                April 11, 2026
               </CardTitle>
               <p className="text-lg font-semibold text-earth-green">Selection Round</p>
             </CardHeader>
@@ -114,7 +117,7 @@ const ProgramSchedule = () => {
               <Badge variant="secondary" className="w-fit mx-auto mb-2 bg-earth-green text-white">Day 2</Badge>
               <CardTitle className="text-2xl text-foreground flex items-center justify-center gap-3">
                 <Calendar className="w-6 h-6 text-earth-green" />
-                October 25, 2026
+                April 12, 2026
               </CardTitle>
               <p className="text-lg font-semibold text-earth-green">Final Round</p>
             </CardHeader>

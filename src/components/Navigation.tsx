@@ -125,6 +125,7 @@ const Navigation = () => {
               <Button
                 variant="earth"
                 size="sm"
+                onClick={() => window.open("https://forms.gle/7mTSR8f8cvyeuQvU6", "_blank")}
                 // disabled
                 // className="opacity-60 cursor-not-allowed"
               >
@@ -203,6 +204,8 @@ const Navigation = () => {
                     variant="earth"
                     size="sm"
                     className="w-full "
+                     onClick={() => window.open("https://forms.gle/7mTSR8f8cvyeuQvU6", "_blank")}
+
                     // opacity-60 cursor-not-allowed
                     // disabled
                   >

@@ -38,7 +38,7 @@ const EvaluationProcessPage = () => {
         "SDG alignment and real-world impact",
         "AI innovation and technical depth",
         "Functionality and solution design",
-        "Scalability, feasibility, and sustainability",
+        "Scalability, feasibility and sustainability",
         "Impact metrics and evaluation methods"
       ],
       scoring: "Each criterion will be scored according to its assigned percentage weightage, resulting in a cumulative score out of 100%."
@@ -51,8 +51,8 @@ const EvaluationProcessPage = () => {
       points: [
         "Deliver a live or virtual presentation (5–7 minutes)",
         "Demonstrate their AI tool or prototype",
-        "Explain technical architecture, data usage, and AI workflow",
-        "Answer jury questions on feasibility, ethics, and impact"
+        "Explain technical architecture, data usage and AI workflow",
+        "Answer jury questions on feasibility, ethics and impact"
       ],
       focus: "Evaluation Focus:",
       focusPoints: [
@@ -97,8 +97,8 @@ const EvaluationProcessPage = () => {
         "Winners and special category awardees will be announced during the closing ceremony.",
         "Selected projects may be:",
         "Featured on the official challenge platform",
-        "Recommended for incubation, mentorship, or pilot deployment",
-        "Invited for publications, showcases, or collaborations"
+        "Recommended for incubation, mentorship or pilot deployment",
+        "Invited for publications, showcases or collaborations"
       ]
     },
     {
@@ -113,7 +113,7 @@ const EvaluationProcessPage = () => {
     {
       title: "Evaluation Philosophy",
       icon: <Globe className="w-6 h-6" />,
-      description: "The AI4OneEarth Evaluation Process emphasizes:",
+      description: "The AI Tool Development Challenge Evaluation Process emphasizes:",
       points: [
         "Impact over hype",
         "Responsible AI over complexity",
@@ -134,10 +134,14 @@ const EvaluationProcessPage = () => {
           </h1>
           <div className="w-24 h-1 bg-gradient-accent mx-auto mb-8"></div>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed mb-4">
-            AI4OneEarth – One Planet. One Purpose. Powered by AI
+            AI Tool Development Challenge 2026 
           </p>
+          <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed mb-4">
+            One Planet. One Purpose. Powered by AI
+          </p>
+          
           <p className="text-lg text-muted-foreground max-w-4xl mx-auto leading-relaxed">
-            The evaluation process is designed to ensure fairness, transparency, and alignment with the challenge's mission of leveraging AI for sustainable development and global impact.
+            The evaluation process is designed to ensure fairness, transparency and alignment with the challenge's mission of leveraging AI for sustainable development and global impact.
           </p>
         </div>
 

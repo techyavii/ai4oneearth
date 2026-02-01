@@ -167,7 +167,7 @@ const Judges = () => {
       affiliation: "Database Engineer",
       location: "USA",
       image: "/lovable-uploads/sachinpawar.jpeg",
-      expertise: "Agent-based solutions, Database Engineering, and Cloud Migrations",
+      expertise: "Agent-based solutions, Database Engineering and Cloud Migrations",
       // linkedin: "https://www.linkedin.com/in/reshma-thakkallapelly/"
     },
     {

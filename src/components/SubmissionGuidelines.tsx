@@ -22,11 +22,11 @@ const SubmissionGuidelines = () => {
     {
       number: 2,
       title: "AI Tool / Prototype",
-      subtitle: "Duration: 3–5 minutes",
+      subtitle: "Duration: 3 minutes",
       icon: <Code className="w-6 h-6" />,
       points: [
-        "A functional prototype, proof-of-concept (PoC), or working model",
-        "Can be web-based, mobile-based, desktop, or API-driven",
+        "A functional prototype, proof-of-concept (PoC) or working model",
+        "Can be web-based, mobile-based, desktop or API-driven",
         "Cloud-hosted or locally executable solutions are acceptable"
       ]
     },
@@ -39,7 +39,7 @@ const SubmissionGuidelines = () => {
         "GitHub / GitLab / Bitbucket link (public or private access as instructed)",
         "Clear README with setup and execution instructions",
         "Proper documentation and comments",
-        "Attribution for third-party libraries, datasets, and APIs"
+        "Attribution for third-party libraries, datasets and APIs"
       ]
     }
   ];
@@ -72,9 +72,9 @@ const SubmissionGuidelines = () => {
 
   const finalPresentation = [
     "Shortlisted teams may be required to:",
-    "Deliver a live demo or presentation (5–7 minutes)",
-    "Participate in a Q&A session with the jury",
-    "Presentation slides should be clear, concise, and impact-focused."
+    "Deliver a presentation (5 minutes) & demo of the prototype (3 minutes)",
+    "Participate in a Q&A session (2 minutes) with the jury",
+    "Presentation slides should be clear, concise and impact-focused."
   ];
 
   const disqualificationConditions = [
@@ -105,7 +105,7 @@ const SubmissionGuidelines = () => {
           </h1>
           <div className="w-24 h-1 bg-gradient-accent mx-auto mb-8"></div>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            Each team/individual must submit the following components to participate in the AI4OneEarth challenge.
+            Each team/individual must submit the following components to participate in the AI Tool Development Challenge 2026.
           </p>
         </div>
 

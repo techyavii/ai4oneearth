@@ -50,9 +50,9 @@ const ChallengeRequirementsPage = () => {
       icon: <Wrench className="w-6 h-6" />,
       description: "Teams must develop:",
       points: [
-        "A working prototype, proof-of-concept (PoC), or demonstrable AI model",
+        "A working prototype, proof-of-concept (PoC) or demonstrable AI model",
         "The solution may be:",
-        "Web-based, mobile-based, desktop-based, or API-driven",
+        "Web-based, mobile-based, desktop-based or API-driven",
         "Cloud-hosted or locally executable",
         "The prototype should demonstrate core functionality and AI outcomes."
       ]
@@ -63,7 +63,7 @@ const ChallengeRequirementsPage = () => {
       icon: <BarChart3 className="w-6 h-6" />,
       description: "Participants must clearly explain:",
       points: [
-        "Data sources (public, open-source, synthetic, or simulated)",
+        "Data sources (public, open-source, synthetic or simulated)",
         "Data preprocessing and training methodology",
         "Model selection and evaluation approach",
         "Use of open datasets is permitted with proper attribution.",
@@ -91,7 +91,7 @@ const ChallengeRequirementsPage = () => {
       points: [
         "Clear real-world relevance and potential impact",
         "Defined impact metrics or KPIs",
-        "Scalability across regions, users, or systems",
+        "Scalability across regions, users or systems",
         "Sustainability of the solution beyond the prototype stage"
       ]
     },
@@ -104,7 +104,7 @@ const ChallengeRequirementsPage = () => {
         "A clear system architecture or workflow diagram",
         "Description of AI pipeline and decision-making process",
         "Installation and execution instructions (README)",
-        "Limitations, assumptions, and future enhancement plans"
+        "Limitations, assumptions and future enhancement plans"
       ]
     },
     {
@@ -115,7 +115,7 @@ const ChallengeRequirementsPage = () => {
       points: [
         "Present their solution to an expert jury",
         "Demonstrate the prototype or AI tool",
-        "Answer technical, ethical, and impact-related questions",
+        "Answer technical, ethical and impact-related questions",
         "Clear communication and justification of design choices is essential."
       ]
     },
@@ -135,7 +135,7 @@ const ChallengeRequirementsPage = () => {
       icon: <Award className="w-6 h-6" />,
       description: "Participants retain full ownership of their intellectual property.",
       points: [
-        "Organizers reserve the right to showcase selected projects for non-commercial, academic, or promotional purposes with proper credit."
+        "Organizers reserve the right to showcase selected projects for non-commercial, academic or promotional purposes with proper credit."
       ]
     },
     {
@@ -164,10 +164,10 @@ const ChallengeRequirementsPage = () => {
           </h1>
           <div className="w-24 h-1 bg-gradient-accent mx-auto mb-8"></div>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed mb-4">
-            AI4OneEarth – One Planet. One Purpose. Powered by AI
+            AI Tool Development Challenge 2026 – One Planet. One Purpose. Powered by AI
           </p>
           <p className="text-lg text-muted-foreground max-w-4xl mx-auto leading-relaxed">
-            Participants must meet the following requirements to ensure that all submissions are impactful, ethical, and aligned with the goals of the AI4OneEarth Challenge.
+            Participants must meet the following requirements to ensure that all submissions are impactful, ethical and aligned with the goals of the AI Tool Development Challenge.
           </p>
         </div>
 
@@ -227,7 +227,7 @@ const ChallengeRequirementsPage = () => {
                 </li>
                 <li className="flex items-start gap-3">
                   <CheckCircle className="w-5 h-5 text-primary flex-shrink-0 mt-0.5" />
-                  <span className="text-muted-foreground">Presented actionable insights, impact metrics, and pathways for real-world deployment.</span>
+                  <span className="text-muted-foreground">Presented actionable insights, impact metrics and pathways for real-world deployment.</span>
                 </li>
               </ul>
             </CardContent>

@@ -24,7 +24,7 @@ const Themes = () => {
         "Personalized and preventive healthcare systems",
         "AI tools for rural and remote healthcare accessibility"
       ],
-      impactFocus: "Affordable, accessible, and preventive healthcare"
+      impactFocus: "Affordable, accessible and preventive healthcare"
     },
     {
       icon: <Brain className="w-8 h-8" />,
@@ -37,7 +37,7 @@ const Themes = () => {
         "Learning analytics to reduce dropout rates",
         "Multilingual AI education tools for underserved communities"
       ],
-      impactFocus: "Equity, personalization, and lifelong learning"
+      impactFocus: "Equity, personalization and lifelong learning"
     },
     {
       icon: <Zap className="w-8 h-8" />,
@@ -50,7 +50,7 @@ const Themes = () => {
         "Predictive maintenance for energy infrastructure",
         "AI tools to reduce energy waste and carbon footprint"
       ],
-      impactFocus: "Efficient, affordable, and clean energy systems"
+      impactFocus: "Efficient, affordable and clean energy systems"
     },
     {
       icon: <Building className="w-8 h-8" />,
@@ -63,7 +63,7 @@ const Themes = () => {
         "Sustainable supply chain optimization",
         "Infrastructure resilience through AI-driven insights"
       ],
-      impactFocus: "Innovation, efficiency, and sustainability"
+      impactFocus: "Innovation, efficiency and sustainability"
     },
     {
       icon: <MapPin className="w-8 h-8" />,
@@ -76,7 +76,7 @@ const Themes = () => {
         "Urban planning and resource allocation tools",
         "AI-driven disaster preparedness and response"
       ],
-      impactFocus: "Livable, inclusive, and resilient cities"
+      impactFocus: "Livable, inclusive and resilient cities"
     },
     {
       icon: <Leaf className="w-8 h-8" />,
@@ -102,7 +102,7 @@ const Themes = () => {
         "AI for legal assistance and access to justice",
         "Civic engagement and citizen feedback analytics"
       ],
-      impactFocus: "Trust, accountability, and ethical governance"
+      impactFocus: "Trust, accountability and ethical governance"
     }
   ];
 
@@ -162,8 +162,7 @@ const Themes = () => {
             </span>
           </div>
           <p className="text-muted-foreground mb-6 max-w-2xl mx-auto">
-            Whether your focus lies in renewable energy, water conservation, or climate resilience, 
-            your innovative solutions have the potential to advance global sustainability objectives.
+            Whether your focus lies in healthy lives, clean energy or sustainable cities, your innovative solutions have the potential to advance Sustainable Development Goals.
           </p>
           <Button variant="earth" size="lg" className="min-w-48">
             Choose Your Theme

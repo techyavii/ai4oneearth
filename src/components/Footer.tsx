@@ -56,6 +56,7 @@ const Footer = () => {
               <Button 
                 variant="default" 
                 className="border-white/30 text-white hover:bg-white/10 " 
+                onClick={() => window.open("https://forms.gle/7mTSR8f8cvyeuQvU6", "_blank")}
                 //opacity-60 cursor-not-allowed
                 // disabled
               >
@@ -114,7 +115,10 @@ const Footer = () => {
         {/* Bottom Footer */}
         <div className="flex flex-col md:flex-row items-center justify-between gap-4">
           <div className="flex items-center gap-2 text-white/80 text-sm">
-            <span>© AI4OneEarth 2026</span>
+            <span>© AI Tool Development Challenge 2026
+on
+OneEarth
+</span>
           </div>
           
           <div className="text-white/60 text-sm text-center md:text-right">

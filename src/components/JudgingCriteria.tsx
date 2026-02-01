@@ -13,7 +13,7 @@ const JudgingCriteria = () => {
       points: [
         "Clear identification of the real-world problem",
         "Relevance and depth of SDG alignment",
-        "Potential for measurable social, environmental, or economic impact",
+        "Potential for measurable social, environmental or economic impact",
         "Inclusivity and benefit to underserved communities"
       ]
     },
@@ -21,12 +21,12 @@ const JudgingCriteria = () => {
       title: "AI Innovation & Technical Depth",
       percentage: "25%",
       icon: <Brain className="w-6 h-6" />,
-      description: "Assesses the originality, sophistication, and appropriateness of AI techniques used.",
+      description: "Assesses the originality, sophistication and appropriateness of AI techniques used.",
       keyQuestion: "Is AI used intelligently and innovatively—not just as a buzzword?",
       points: [
         "Appropriate use of AI/ML/NLP/CV techniques",
         "Novelty and creativity of the AI approach",
-        "Model design, data usage, and algorithm selection",
+        "Model design, data usage and algorithm selection",
         "Technical soundness and innovation level"
       ]
     },
@@ -50,7 +50,7 @@ const JudgingCriteria = () => {
       description: "Evaluates the practicality and long-term viability of the solution.",
       keyQuestion: "Can this solution scale beyond a prototype?",
       points: [
-        "Scalability across regions, populations, or use cases",
+        "Scalability across regions, populations or use cases",
         "Deployment feasibility (cost, infrastructure, data)",
         "Sustainability of the solution over time",
         "Adaptability to evolving needs or datasets"
@@ -78,7 +78,7 @@ const JudgingCriteria = () => {
       points: [
         "Clarity of problem statement and solution explanation",
         "Quality of demo or walkthrough",
-        "Storytelling, structure, and visual clarity",
+        "Storytelling, structure and visual clarity",
         "Ability to answer jury questions effectively"
       ]
     }

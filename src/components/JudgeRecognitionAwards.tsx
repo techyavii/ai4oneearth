@@ -4,7 +4,7 @@ import { CheckCircle, Users } from "lucide-react";
 const judgeAwards = [
   { 
     title: "Distinguished Jury Award", 
-    description: "For outstanding contribution to the evaluation process through exceptional expertise, fairness, and leadership.",
+    description: "For outstanding contribution to the evaluation process through exceptional expertise, fairness and leadership.",
     icon: "🌟"
   },
   { 
@@ -14,17 +14,17 @@ const judgeAwards = [
   },
   { 
     title: "Impact Champion Award", 
-    description: "For exceptional commitment to assessing solutions that drive meaningful social, environmental, and SDG-aligned impact.",
+    description: "For exceptional commitment to assessing solutions that drive meaningful social, environmental and SDG-aligned impact.",
     icon: "🌍"
   },
   { 
     title: "Responsible AI Advocate Award", 
-    description: "Recognizing dedication to ethical AI principles, fairness, transparency, and responsible innovation.",
+    description: "Recognizing dedication to ethical AI principles, fairness, transparency and responsible innovation.",
     icon: "⚖️"
   },
   { 
     title: "Mentorship & Guidance Excellence Award", 
-    description: "Awarded for providing constructive feedback, mentorship, and guidance that empowered participants.",
+    description: "Awarded for providing constructive feedback, mentorship and guidance that empowered participants.",
     icon: "🤝"
   },
   { 
@@ -39,7 +39,7 @@ const judgeAwards = [
   },
   { 
     title: "Special Jury Recognition Award", 
-    description: "Discretionary award given for exceptional contribution beyond evaluation—such as outreach, collaboration, or thought leadership.",
+    description: "Discretionary award given for exceptional contribution beyond evaluation—such as outreach, collaboration or thought leadership.",
     icon: "🌱"
   }
 ];
@@ -55,10 +55,10 @@ const JudgeRecognitionAwards = () => {
           </h3>
           <div className="w-24 h-1 bg-gradient-accent mx-auto mb-8"></div>
           <h4 className="text-2xl md:text-3xl font-semibold mb-4 text-primary">
-            AI4OneEarth – AI Tool Development Challenge
+            AI Tool Development Challenge 2026
           </h4>
           <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto leading-relaxed">
-            To acknowledge the expertise and dedication of our judges, the following awards will be presented to recognize their invaluable contributions to AI4OneEarth 2026.
+            To acknowledge the expertise and dedication of our judges, the following awards will be presented to recognize their invaluable contributions to AI Tool Development Challenge 2026.
           </p>
         </div>
       </section>
@@ -92,33 +92,17 @@ const JudgeRecognitionAwards = () => {
         </div>
       </section>
 
-      {/* Environmental Leadership Certificate */}
-      <section className="container mx-auto px-3 sm:px-6 md:px-8 max-w-4xl mt-16">
-        <div className="bg-gradient-to-br from-secondary via-background to-primary/10 p-8 md:p-12 rounded-3xl border-0 shadow-card">
-          <div className="text-center">
-            <Users className="w-12 h-12 text-primary mx-auto mb-5 drop-shadow" />
-            <h4 className="text-2xl md:text-3xl font-bold text-foreground mb-4">Environmental Leadership Certificate</h4>
-            <p className="text-muted-foreground text-lg md:text-xl max-w-2xl mx-auto leading-relaxed">
-              In recognition of their exceptional contributions to environmental innovation, each judge will be awarded an Environmental Leadership Certificate. These awards acknowledge the judges' expertise and commitment to advancing sustainable solutions for our planet through the AI4OneEarth 2026.
-            </p>
-          </div>
-        </div>
-      </section>
-
       {/* Award Ceremony Banner */}
       <section className="container mx-auto px-3 sm:px-6 md:px-8 max-w-4xl mt-12">
         <div className="text-center bg-gradient-to-r from-emerald-500 to-blue-500 p-8 md:p-12 rounded-3xl text-white shadow-xl">
           <h4 className="text-2xl md:text-3xl font-bold mb-4">Award Ceremony</h4>
           <p className="text-lg md:text-xl opacity-90 mb-3 max-w-2xl mx-auto">
-            The Judges Recognition Awards will be presented during the closing ceremony of AI4OneEarth 2026 on <b>April 13, 2026</b>.
-            We encourage all participants to join us in celebrating the valuable contributions of our esteemed environmental and technology experts.
+            The Judges Recognition Awards will be presented during the closing ceremony of AI Tool Development Challenge 2026 on <b>April 12, 2026</b>. We encourage all participants to join us in celebrating the valuable contributions of our esteemed environmental and technology
           </p>
         </div>
       </section>
     </div>
   );
 };
-
-// Optionally add extra colors to your tailwind.config.js (e.g. earth-dark-green, earth-navy) for custom brand colors.
 
 export default JudgeRecognitionAwards;
