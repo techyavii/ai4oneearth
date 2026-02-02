@@ -38,7 +38,7 @@ OneEarth
 
           </h1>
           <p className="text-lg sm:text-xl md:text-2xl font-light opacity-90">
-            "One planet. One purpose. Powered by AI. AI4OneEarth."
+            "One planet. One purpose. Powered by AI. AI Tool Development Challenge 2026 on OneEarth."
           </p>
         </div>
 
@@ -144,11 +144,26 @@ OneEarth
         </div>
 
         {/* Organizer */}
-        <div className="relative z-10 mt-12 animate-fade-in" style={{ animationDelay: '1.2s' }}>
-          <p className="text-sm opacity-70">
-            Organized by <span className="font-semibold">School of Computing, Goldsmiths, University of London, UK</span>
-          </p>
+        <div
+          className="relative z-10 mt-16 animate-fade-in"
+          style={{ animationDelay: "1.2s" }}
+        >
+          <div className="mx-auto inline-flex items-center gap-4 rounded-full bg-white/10 px-6 py-3 backdrop-blur-md border border-white/20">
+            <img
+              src="/collaborators/UniversityOfLondon.png"
+              alt="Goldsmiths, University of London"
+              className="h-10 w-auto object-contain"
+            />
+
+            <p className="text-sm md:text-base text-white/80">
+              Organized by{" "}
+              <span className="font-semibold text-white">
+                School of Computing, Goldsmiths, University of London, UK
+              </span>
+            </p>
+          </div>
         </div>
+
       </div>
     </section>
   );

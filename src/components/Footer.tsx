@@ -44,7 +44,7 @@ const Footer = () => {
                 <Leaf className="w-7 h-7 text-white" />
               </div>
               <div>
-                <h3 className="text-2xl font-bold">AI4OneEarth</h3>
+                <h3 className="text-2xl font-bold">AI Tool Development Challenge 2026 on OneEarth</h3>
                 <p className="text-white/80 text-sm">One planet. One purpose. Powered by AI.</p>
               </div>
             </div>

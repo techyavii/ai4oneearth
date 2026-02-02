@@ -94,7 +94,7 @@ const JudgingCriteria = () => {
           </h1>
           <div className="w-24 h-1 bg-gradient-accent mx-auto mb-8"></div>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed mb-4">
-            AI4OneEarth – AI Tool Development Challenge
+            AI Tool Development Challenge 2026 on OneEarth – AI Tool Development Challenge
           </p>
           <p className="text-lg text-muted-foreground max-w-4xl mx-auto leading-relaxed">
             Each submission will be evaluated by an expert jury based on the following criteria. The total score will be 100%.

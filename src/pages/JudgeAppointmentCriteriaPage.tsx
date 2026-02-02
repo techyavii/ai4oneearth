@@ -105,7 +105,7 @@ const JudgeAppointmentCriteriaPage = () => {
                 Judge Appointment Criteria
               </h1>
               <p className="text-xl md:text-2xl opacity-90 max-w-4xl mx-auto leading-relaxed mb-4">
-                AI4OneEarth – AI Tool Development Challenge
+                AI Tool Development Challenge 2026 on OneEarth – AI Tool Development Challenge
               </p>
               <p className="text-lg md:text-xl opacity-90 max-w-4xl mx-auto leading-relaxed">
                 Judges for the AI Tool Development Challenge are selected to ensure fairness, expertise, diversity and alignment with the mission of advancing Artificial Intelligence for sustainable development and social good.

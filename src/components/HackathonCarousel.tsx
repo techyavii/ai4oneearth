@@ -17,11 +17,11 @@ const HackathonCarousel = () => {
   }, [emblaApi]);
 
   const images = [
-    { src: "/OEH_1.png", alt: "AI4OneEarthathon 2026 Participants" },
-    { src: "/OEH_2.jpg", alt: "AI4OneEarthathon 2026 Team Presentations" },
-    { src: "/OEH_3.png", alt: "AI4OneEarthathon 2026 Award Ceremony" },
-    { src: "/OEH_4.png", alt: "AI4OneEarthathon 2026 Collaboration" },
-    { src: "/OEH_5.png", alt: "AI4OneEarthathon 2026 Innovation" },
+    { src: "/OEH_1.png", alt: "AI Tool Development Challenge 2026 on OneEarthathon 2026 Participants" },
+    { src: "/OEH_2.jpg", alt: "AI Tool Development Challenge 2026 on OneEarthathon 2026 Team Presentations" },
+    { src: "/OEH_3.png", alt: "AI Tool Development Challenge 2026 on OneEarthathon 2026 Award Ceremony" },
+    { src: "/OEH_4.png", alt: "AI Tool Development Challenge 2026 on OneEarthathon 2026 Collaboration" },
+    { src: "/OEH_5.png", alt: "AI Tool Development Challenge 2026 on OneEarthathon 2026 Innovation" },
   ];
 
   return (

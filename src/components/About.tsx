@@ -41,7 +41,7 @@ const About = () => {
            AI Tool Development Challenge on One Earth is a global initiative inviting innovators to build AI-driven solutions that address real-world challenges aligned with the United Nations Sustainable Development Goals (SDGs). It encourages participants to apply AI technologies to create meaningful, ethical and scalable impact across critical domains such as sustainability, healthcare, education, climate action  and inclusive growth.
           </p>
           <p className="text-lg text-muted-foreground max-w-4xl mx-auto leading-relaxed">
-            More than a competition, AI4OneEarth is a mission to use AI as a force for social good, fostering collaboration and responsible innovation to transform ideas into practical tools that benefit communities, protect the planet and support a sustainable future.
+            More than a competition, AI Tool Development Challenge 2026 on OneEarth is a mission to use AI as a force for social good, fostering collaboration and responsible innovation to transform ideas into practical tools that benefit communities, protect the planet and support a sustainable future.
           </p>
         </div>
 
