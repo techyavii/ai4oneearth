@@ -6,7 +6,7 @@ const Judges = () => {
 {
   name: "Swapna Putti",
   affiliation: "Senior Solution Architect, Pearson Education Inc",
-  location: "UK",
+  location: "US",
   image: "/judges/Swapna.jpeg",
   expertise: "Enterprise AI Cloud Architecture",
   linkedin: "https://www.linkedin.com/in/swapna-p-579264103/",
@@ -15,7 +15,7 @@ const Judges = () => {
 {
   name: "Pramod Baddam",
   affiliation: "Senior Software Developer – Network Systems, Independent Researcher",
-  location: "UK",
+  location: "US",
   image: "/judges/Pramod.jpeg",
   expertise: "AI-Driven Network Planning",
   linkedin: "https://www.linkedin.com/in/pramod-baddam-a928818a",
@@ -24,12 +24,22 @@ const Judges = () => {
 {
   name: "Chaithanya Etikala",
   affiliation: "Senior Technical Architect – AI & CRM Solutions, Tata Consultancy Services (TCS)",
-  location: "UK",
+  location: "US",
   image: "/judges/Chaithanya.jpeg",
   expertise: "AI & Enterprise Automation",
   linkedin: "https://www.linkedin.com/in/chaithanyae",
   email: "Chaithanya161719@gmail.com"
+},
+{
+  name: "Rajitha Gentyala",
+  affiliation: "Data Engineer (Staff Engineer II), Western Alliance Bank",
+  location: "US",
+  image: "/judges/Rajitha.jpeg",
+  expertise: "Data Engineering & AI",
+  linkedin: "https://www.linkedin.com/in/rajitha-g-8731a1115",
+  email: "rajitha.gentyal@gmail.com"
 }
+
 
 
   ];
@@ -61,7 +71,7 @@ const Judges = () => {
                   <div className="aspect-square relative overflow-hidden">
                     <img 
                       src={judge.image} 
-                      alt={`${judge.name} - Hackathon Judge`}
+                      alt={`${judge.name} - challenge Judge`}
                       className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                     />
                     <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>

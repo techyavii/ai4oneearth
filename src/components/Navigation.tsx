@@ -14,7 +14,7 @@ const Navigation = () => {
 
   const resourcesItems = [
     { name: "Timeline", href: "/timeline" },
-    { name: "Hackathon Themes", href: "/themes" },
+    { name: "challenge Themes", href: "/themes" },
     { name: "Eligibility Criteria", href: "/eligibility" },
     { name: "Challenge Requirements", href: "/challenge-requirements" },
     { name: "Judging Criteria", href: "/judging-criteria" },

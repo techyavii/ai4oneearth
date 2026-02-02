@@ -28,7 +28,7 @@ const Footer = () => {
     {
       icon: <Mail className="w-4 h-4" />,
       label: "Contact",
-      value: "hackathon@aiforoneearth.com"
+      value: "challenge@aiforoneearth.com"
     }
   ];
 

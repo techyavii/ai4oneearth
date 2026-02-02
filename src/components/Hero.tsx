@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { Calendar, MapPin, Users, Trophy } from "lucide-react";
-import heroImage from "@/assets/hero-hackathon.jpg";
+import heroImage from "@/assets/Hero-Challenge.webp";
 import { Link, useNavigate } from "react-router-dom";
 
 const Hero = () => {
@@ -12,7 +12,7 @@ const Hero = () => {
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{ backgroundImage: `url(${heroImage})` }}
       >
-        <div className="absolute inset-0 bg-gradient-to-br from-black/70 via-black/60 to-black/50"></div>
+        <div className="absolute inset-0 bg-gradient-to-br from-black/80 via-black/90 to-black/50"></div>
       </div>
       
       {/* Animated Elements */}
@@ -31,10 +31,8 @@ const Hero = () => {
       </div>
         {/* Logo/Brand */}
         <div className="mb-8 animate-fade-in">
-          <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-8xl font-bold mb-4 bg-gradient-to-r from-white to-earth-lime bg-clip-text text-transparent leading-tight">
-            AI Tool Development Challenge 2026
-on
-OneEarth
+          <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-8xl font-bold mb-4 bg-gradient-to-r from-white to-indigo-700 bg-clip-text text-transparent leading-tight">
+            AI Tool Development Challenge 2026 on OneEarth
 
           </h1>
           <p className="text-lg sm:text-xl md:text-2xl font-light opacity-90">

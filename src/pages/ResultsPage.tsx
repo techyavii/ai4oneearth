@@ -5,17 +5,17 @@ import Navigation from "@/components/Navigation";
 const feedbackVideos = [
   {
     team: "GenZPT",
-    description: "Winning team feedback on their hackathon journey.",
+    description: "Winning team feedback on their challenge journey.",
     link: "https://drive.google.com/file/d/1fnFtUYYKTNjHFKwiOi6lqAUXs2kxAN4F/view",
   },
   {
     team: "Hackaholics",
-    description: "Winning team feedback on their hackathon journey.",
+    description: "Winning team feedback on their challenge journey.",
     link: "https://drive.google.com/file/d/1pxYv9YK41K6uKL5iwjcY7bm5Mk0m5gMT/view",
   },
   {
     team: "Terminal Coders",
-    description: "Winning team feedback on their hackathon journey.",
+    description: "Winning team feedback on their challenge journey.",
     link: "https://drive.google.com/file/d/1yBovUQCQGerZnxw6djnFOx5IP1v3wrKW/view",
   },
 ];

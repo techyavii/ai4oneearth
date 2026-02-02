@@ -32,7 +32,7 @@ const JudgeAppointmentCriteriaPage = () => {
       title: "Evaluation & Mentorship Experience",
       icon: "🧠",
       points: [
-        "Prior experience as a judge, reviewer, mentor or evaluator in hackathons, innovation challenges, research forums, or startup competitions",
+        "Prior experience as a judge, reviewer, mentor or evaluator in challenges, innovation challenges, research forums, or startup competitions",
         "Ability to provide constructive, unbiased and actionable feedback to participants"
       ]
     },
@@ -193,10 +193,10 @@ const JudgeAppointmentCriteriaPage = () => {
                     <div className="flex items-center justify-center space-x-2">
                       <Mail className="w-5 h-5" />
                       <a
-                        href="mailto:hackathon@aiforoneearth.com"
+                        href="mailto:challenge@aiforoneearth.com"
                         className="text-lg hover:underline"
                       >
-                        hackathon@aiforoneearth.com
+                        challenge@aiforoneearth.com
                       </a>
                     </div>
                   </div>

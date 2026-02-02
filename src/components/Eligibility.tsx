@@ -308,9 +308,9 @@ const Eligibility = () => {
               <Mail className="w-5 h-5 mr-2" />
               Contact Team
             </Button>
-            <Link to="mailto:hackathon@aiforoneearth.com">
+            <Link to="mailto:challenge@aiforoneearth.com">
               <Button variant="secondary" className="text-sm">
-                hackathon@aiforoneearth.com
+                challenge@aiforoneearth.com
               </Button>
             </Link>
           </div>

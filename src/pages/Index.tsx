@@ -1,7 +1,7 @@
 import Navigation from "@/components/Navigation";
 import Hero from "@/components/Hero";
 import About from "@/components/About";
-import HackathonCarousel from "@/components/HackathonCarousel";
+import challengeCarousel from "@/components/challengeCarousel";
 import Advisory from "@/components/Advisory";
 import Judges from "@/components/Judges";
 import Footer from "@/components/Footer";
@@ -12,7 +12,7 @@ const Index = () => {
       <Navigation />
       <Hero />
       <About />
-      {/* <HackathonCarousel /> */}
+      {/* <challengeCarousel /> */}
       <Advisory />
       <Judges />
       <Footer />

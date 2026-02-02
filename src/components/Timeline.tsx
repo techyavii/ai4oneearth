@@ -125,7 +125,7 @@ const Timeline = () => {
           </h3>
           <p className="text-muted-foreground mb-6 max-w-2xl mx-auto">
             Registration opens on February 1st and closes on March 15th. 
-            Make sure to register early to secure your spot in this amazing hackathon!
+            Make sure to register early to secure your spot in this amazing challenge!
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
             <div className="flex items-center gap-2 text-earth-green font-medium">
