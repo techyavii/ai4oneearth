@@ -38,10 +38,16 @@ const Judges = () => {
   expertise: "Data Engineering & AI",
   linkedin: "https://www.linkedin.com/in/rajitha-g-8731a1115",
   email: "rajitha.gentyal@gmail.com"
+},
+{
+  name: "Mayur Patel",
+  affiliation: "Director, IT Center of Excellence, Axalta Coating Systems, LLC",
+  location: "US",
+  image: "/judges/Mayur.jpeg",
+  expertise: "Digital Transformation",
+  linkedin: "https://www.linkedin.com/in/mayur-patel-4a08791b",
+  email: "mayurbpatel@gmail.com"
 }
-
-
-
   ];
   return (
     <section id="judges" className="py-20 bg-gradient-subtle">
