@@ -49,8 +49,7 @@ const Footer = () => {
               </div>
             </div>
             <p className="text-white/90 leading-relaxed mb-6 max-w-md">
-              Join the 48-hour innovation challenge that brings together students, developers, 
-              and sustainability enthusiasts to create tech solutions for environmental and climate issues.
+              Join this 48-hour innovation challenge that unites students, developers, and sustainability enthusiasts to build impactful tech solutions for real-world problems aligned with the United Nations Sustainable Development Goals (SDGs).
             </p>
             <div className="relative inline-block">
               <Button 

@@ -68,9 +68,7 @@ const Hero = () => {
             Build Tech for a Sustainable Tomorrow
           </h2>
           <p className="text-lg md:text-xl max-w-3xl mx-auto leading-relaxed opacity-90">
-            Students, developers and sustainability enthusiasts are invited to join in a 2-day 
-            innovation challenge. Create tech solutions using Artificial Intelligence (AI) for real-world 
-            environmental and climate issues.
+            Students, developers, researchers, industry professionals and sustainability enthusiasts are invited to participate in a 2-day innovation challenge to create AI-powered tech solutions for real-world problems aligned with the UN Sustainable Development Goals (SDGs), including health, sustainable cities, smart industries, clean energy, quality education etc.
           </p>
         </div>
 
