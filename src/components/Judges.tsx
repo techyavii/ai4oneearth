@@ -30,15 +30,7 @@ const Judges = () => {
   linkedin: "https://www.linkedin.com/in/chaithanyae",
   email: "Chaithanya161719@gmail.com"
 },
-{
-  name: "Rajitha Gentyala",
-  affiliation: "Data Engineer (Staff Engineer II), Western Alliance Bank",
-  location: "US",
-  image: "/judges/Rajitha.jpeg",
-  expertise: "Data Engineering & AI",
-  linkedin: "https://www.linkedin.com/in/rajitha-g-8731a1115",
-  email: "rajitha.gentyal@gmail.com"
-},
+
 {
   name: "Mayur Patel",
   affiliation: "Director, IT Center of Excellence, Axalta Coating Systems, LLC",
@@ -47,7 +39,26 @@ const Judges = () => {
   expertise: "Digital Transformation",
   linkedin: "https://www.linkedin.com/in/mayur-patel-4a08791b",
   email: "mayurbpatel@gmail.com"
+},
+{
+  name: "Chidambaram Subbapillai",
+  affiliation: "Principal Consultant, Infosys Limited",
+  location: "UK",
+  image: "/judges/Chidambaram_Subbapillai.jpg",
+  expertise: "Enterprise Transformation",
+  linkedin: "https://www.linkedin.com/in/chidambaram-subbapillai-6a619555/",
+  email: "chiit70@gmail.com"
+},
+{
+  name: "Mahendrakumar Kalal",
+  affiliation: "Senior SAP Analyst, O.C. Tanner",
+  location: "Salt Lake City, Utah, USA",
+  image: "/judges/Mahendrakumar_Kalal.jpeg",
+  expertise: "AI-Driven Smart Manufacturing",
+  linkedin: "https://linkedin.com/in/mahendra-kalal-973489121",
+  email: "mahendrakalal14051989@gmail.com"
 }
+
   ];
   return (
     <section id="judges" className="py-20 bg-gradient-subtle">
