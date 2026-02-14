@@ -9,7 +9,7 @@ const Judges = () => {
   location: "US",
   image: "/judges/Swapna.jpeg",
   expertise: "Enterprise AI Cloud Architecture",
-  linkedin: "https://www.linkedin.com/in/swapna-p-579264103/",
+  linkedin: "https://www.linkedin.com/in/swapnaputti/",
   email: "pswapna.cse@gmail.com"
 },
 {
@@ -57,6 +57,15 @@ const Judges = () => {
   expertise: "AI-Driven Smart Manufacturing",
   linkedin: "https://linkedin.com/in/mahendra-kalal-973489121",
   email: "mahendrakalal14051989@gmail.com"
+},
+{
+  name: "Balakrishnan Devaraj",
+  affiliation: "Manager - Genesys Cloud & Contact Center AI, Cognizant",
+  location: "India",
+  image: "/judges/Balakrishnan_Devaraj.jpeg",
+  expertise: "Contact Center AI Operations",
+  linkedin: "https://www.linkedin.com/in/balakrishnan-devaraj-a52021a1",
+  email: "bala.krish14@gmail.com"
 }
 
   ];
