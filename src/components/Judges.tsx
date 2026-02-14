@@ -61,7 +61,7 @@ const Judges = () => {
 {
   name: "Balakrishnan Devaraj",
   affiliation: "Manager - Genesys Cloud & Contact Center AI, Cognizant",
-  location: "India",
+  location: "USA",
   image: "/judges/Balakrishnan_Devaraj.jpeg",
   expertise: "Contact Center AI Operations",
   linkedin: "https://www.linkedin.com/in/balakrishnan-devaraj-a52021a1",
