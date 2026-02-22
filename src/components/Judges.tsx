@@ -66,6 +66,15 @@ const Judges = () => {
   expertise: "Contact Center AI Operations",
   linkedin: "https://www.linkedin.com/in/balakrishnan-devaraj-a52021a1",
   email: "bala.krish14@gmail.com"
+},
+{
+  name: "Dharga Panduranga Kolla",
+  affiliation: "Staff Software Engineer, Moody’s Analytics",
+  location: "USA",
+  image: "/judges/Dharga_Panduranga_Kolla.jpeg",
+  expertise: "Cloud Computing, AI and ML",
+  linkedin: "https://www.linkedin.com/in/dhargak",
+  email: "kolladharga@gmail.com"
 }
 
   ];
