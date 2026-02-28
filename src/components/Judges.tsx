@@ -75,8 +75,44 @@ const Judges = () => {
   expertise: "Cloud Computing, AI and ML",
   linkedin: "https://www.linkedin.com/in/dhargak",
   email: "kolladharga@gmail.com"
+},
+{
+  name: "Vikrant Varandani",
+  affiliation: "Engineering Group Manager, Propulsion Thermal Software, General Motors",
+  location: "",
+  image: "/judges/Vikrant_Varandani.jpeg",
+  expertise: "Automotive Thermal Systems",
+  linkedin: "https://www.linkedin.com/in/vikrantvarandani",
+  email: "vikrant.varandani@gmail.com"
+},
+{
+  name: "Gadepalli Sri Pratyak Aditya Swaprakash",
+  affiliation: "Sr Technical Director and Sr Solutions Architect, Global Alliant Inc",
+  location: "",
+  image: "/judges/Gadepalli_Sri_Pratyak_Aditya_Swaprakash.jpeg",
+  expertise: "Healthcare AI & Cloud",
+  linkedin: "",
+  email: "PrakashA.GadepalliSP@outlook.com",
+  experience: "26 years"
+},
+{
+  name: "Dr. Azhar Ushmani",
+  affiliation: "Security Leader, AWS",
+  location: "",
+  image: "/judges/Azhar_Ushmani.jpeg",
+  expertise: "AI & Cloud Security",
+  linkedin: "https://www.linkedin.com/in/azhar-ushmani-phd-a4b8501a",
+  email: "Azhar.ushmani@gmail.com"
+},
+{
+  name: "Nithesh Gudipuri",
+  affiliation: "Associate Director, Technology, Raymond James & Associates",
+  location: "",
+  image: "/judges/Nithesh_Gudipuri.jpeg",
+  expertise: "Enterprise Architecture",
+  linkedin: "http://linkedin.com/in/nithesh-gudipuri-8abb54225",
+  email: "Nithesh.gudipuri@ieee.org"
 }
-
   ];
   return (
     <section id="judges" className="py-20 bg-gradient-subtle">
