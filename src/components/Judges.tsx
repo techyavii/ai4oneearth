@@ -88,7 +88,7 @@ const Judges = () => {
 {
   name: "Gadepalli Sri Pratyak Aditya Swaprakash",
   affiliation: "Sr Technical Director and Sr Solutions Architect, Global Alliant Inc",
-  location: "",
+  location: "USA",
   image: "/judges/Gadepalli_Sri_Pratyak_Aditya_Swaprakash.jpeg",
   expertise: "Healthcare AI & Cloud",
   linkedin: "",
@@ -98,7 +98,7 @@ const Judges = () => {
 {
   name: "Dr. Azhar Ushmani",
   affiliation: "Security Leader, AWS",
-  location: "",
+  location: "USA",
   image: "/judges/Azhar_Ushmani.jpeg",
   expertise: "AI & Cloud Security",
   linkedin: "https://www.linkedin.com/in/azhar-ushmani-phd-a4b8501a",
@@ -107,11 +107,38 @@ const Judges = () => {
 {
   name: "Nithesh Gudipuri",
   affiliation: "Associate Director, Technology, Raymond James & Associates",
-  location: "",
+  location: "USA",
   image: "/judges/Nithesh_Gudipuri.jpeg",
   expertise: "Enterprise Architecture",
   linkedin: "http://linkedin.com/in/nithesh-gudipuri-8abb54225",
   email: "Nithesh.gudipuri@ieee.org"
+},
+{
+  name: "Suprith Krishnappa Chikkathayamma",
+  affiliation: "Delivery Consultant (Database and Data Analytics, AI & ML), Amazon Web Services",
+  location: "USA",
+  image: "/judges/Suprith_Krishnappa_Chikkathayamma.jpeg",
+  expertise: "Generative AI & Data Engineering",
+  linkedin: "https://www.linkedin.com/in/suprith-krishnappa-c-2632101a",
+  email: "suprithkcsu@gmail.com"
+},
+{
+  name: "Ketankumar Patel",
+  affiliation: "Senior Software Engineer, Anaqua Inc",
+  location: "USA",
+  image: "/judges/Ketankumar_Patel.jpeg",
+  expertise: "Full Stack & AI",
+  linkedin: "https://www.linkedin.com/in/ketanerp",
+  email: "kdp2885@gmail.com"
+},
+{
+  name: "Dhavalkumar Thakar",
+  affiliation: "Senior Systems and Software Engineer, Capgemini",
+  location: "USA",
+  image: "/judges/Dhavalkumar_Thakar.jpeg",
+  expertise: "Healthcare Systems Engineering",
+  linkedin: "https://www.linkedin.com/in/dhavalthakar91",
+  email: "d10thakar@gmail.com"
 }
   ];
   return (
