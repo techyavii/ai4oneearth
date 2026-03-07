@@ -139,6 +139,24 @@ const Judges = () => {
   expertise: "Healthcare Systems Engineering",
   linkedin: "https://www.linkedin.com/in/dhavalthakar91",
   email: "d10thakar@gmail.com"
+},
+{
+  name: "Sandeep Bharadwaj Mannapur",
+  affiliation: "Lead AI and ML Engineer, ServiceNow",
+  location: "USA",
+  image: "/judges/Sandeep_Bharadwaj_Mannapur.jpeg",
+  expertise: "AI/ML Engineering & Enterprise Data Architecture",
+  linkedin: "https://www.linkedin.com/in/smb1937/",
+  email: "sandeep.b.mannapur@gmail.com"
+},
+{
+  name: "Ravindrakumar Prajapati",
+  affiliation: "Sr Anaplan Manager / Anaplan Solutions Architect, Relanto INC",
+  location: "USA",
+  image: "/judges/Ravindrakumar_Prajapati.jpeg",
+  expertise: "Anaplan Solutions Architecture",
+  linkedin: "https://www.linkedin.com/in/ravinmp/",
+  email: "prajapati.ravindra@outlook.com"
 }
   ];
   return (
