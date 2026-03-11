@@ -157,6 +157,24 @@ const Judges = () => {
   expertise: "Anaplan Solutions Architecture",
   linkedin: "https://www.linkedin.com/in/ravinmp/",
   email: "prajapati.ravindra@outlook.com"
+},
+{
+  name: "Jai Amrish Shah",
+  affiliation: "Software Engineer, Amazon",
+  location: "India",
+  image: "/judges/Jai_Amrish_Shah.jpeg",
+  expertise: "Artificial Intelligence, Cloud Computing, Distributed Systems",
+  linkedin: "https://www.linkedin.com/in/jai05041994/",
+  email: "jai.s@somaiya.edu"
+},
+{
+  name: "Naveen Kumar Sharma",
+  affiliation: "Sr. Technical Program Manager (Cyber Security / Research), Amazon Web Services",
+  location: "India",
+  image: "/judges/Naveen_Kumar_Sharma.jpeg",
+  expertise: "Cyber Security, Research",
+  linkedin: "https://www.linkedin.com/in/naveen-sharma-950a4a18/",
+  email: "maynaveen2026@gmail.com"
 }
   ];
   return (
