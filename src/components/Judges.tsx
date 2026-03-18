@@ -175,6 +175,42 @@ const Judges = () => {
   expertise: "Cyber Security, Research",
   linkedin: "https://www.linkedin.com/in/naveen-sharma-950a4a18/",
   email: "maynaveen2026@gmail.com"
+},
+{
+  name: "Saraschandra Arveti",
+  affiliation: "Senior Software Engineering Manager, Comcast Corporation",
+  location: "USA",
+  image: "/judges/Saraschandra_Arveti.jpeg",
+  expertise: "Voice NLP, Cloud Engineering",
+  linkedin: "https://www.linkedin.com/in/saraschandra",
+  email: "saras.arveti@gmail.com"
+},
+{
+  name: "Dheeraj Velaga",
+  affiliation: "Software Development Engineer, Capital One",
+  location: "USA",
+  image: "/judges/Dheeraj_Velaga.jpeg",
+  expertise: "AI, SDLC",
+  linkedin: "http://linkedin.com/in/dvelaga",
+  email: "mailtovelaga@gmail.com"
+},
+{
+  name: "Komal Jasani",
+  affiliation: "QA Engineering Specialist",
+  location: "USA",
+  image: "/judges/Komal_Jasani.jpeg",
+  expertise: "QA Engineering, VR Testing, Agentic AI",
+  linkedin: "https://www.linkedin.com/in/komal-jasani-4b530155/",
+  email: "Komal_jasani@yahoo.com"
+},
+{
+  name: "Bhanu Sri Katta",
+  affiliation: "Consultant, Optiv Security Inc.",
+  location: "USA",
+  image: "/judges/Bhanu_Sri_Katta.jpeg",
+  expertise: "CyberSecurity, IGA, IAM",
+  linkedin: "https://www.linkedin.com/in/bhanuk8797",
+  email: "bhanusrikatta01@gmail.com"
 }
   ];
   return (
