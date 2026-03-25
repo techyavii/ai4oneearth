@@ -56,15 +56,15 @@ const Footer = () => {
                 variant="default" 
                 className="border-white/30 text-white hover:bg-white/10 " 
                 onClick={() => window.open("https://forms.gle/7mTSR8f8cvyeuQvU6", "_blank")}
-                //opacity-60 cursor-not-allowed
-                // disabled
+                opacity-60 cursor-not-allowed
+                disabled
               >
                 Register Your Team
                 <ExternalLink className="w-4 h-4 ml-2" />
               </Button>
-              {/* <div className="absolute -top-2 -right-2 bg-red-500 text-white font-bold px-2 py-0.5 rounded-full shadow-lg text-xs animate-pulse">
+              <div className="absolute -top-2 -right-2 bg-red-500 text-white font-bold px-2 py-0.5 rounded-full shadow-lg text-xs animate-pulse">
                 Closed
-              </div> */}
+              </div>
             </div>
           </div>
 

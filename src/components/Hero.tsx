@@ -124,13 +124,13 @@ const Hero = () => {
               size="xl" 
               className="min-w-48"
               onClick={() => window.open("https://forms.gle/7mTSR8f8cvyeuQvU6", "_blank")}
-              // disabled
+              disabled
             >
               Register Your Team
             </Button>
-            {/* <div className="absolute -top-3 -right-3 bg-red-500 text-white font-bold px-3 py-1 rounded-full shadow-lg text-xs animate-pulse">
+            <div className="absolute -top-3 -right-3 bg-red-500 text-white font-bold px-3 py-1 rounded-full shadow-lg text-xs animate-pulse">
               Registration Closed
-            </div> */}
+            </div>
           </div>
           <Link to="/schedule">
             <Button variant="outline" size="xl" className="min-w-48 border-white text-white bg-white/20 hover:bg-white hover:text-primary backdrop-blur-md">

@@ -211,6 +211,24 @@ const Judges = () => {
   expertise: "CyberSecurity, IGA, IAM",
   linkedin: "https://www.linkedin.com/in/bhanuk8797",
   email: "bhanusrikatta01@gmail.com"
+},
+{
+  name: "Lourdu Akhila Yeruva",
+  affiliation: "Sr. AI Infra Solutions Engineer, AMD",
+  location: "",
+  image: "/judges/Lourdu_Akhila_Yeruva.jpeg",
+  expertise: "AI, Infrastructure, Cloud Computing",
+  linkedin: "https://www.linkedin.com/in/8azyb",
+  email: "akhilalyeruva@gmail.com"
+},
+{
+  name: "Jaival Vikal",
+  affiliation: "Founder / CEO, Vikal Consulting Group",
+  location: "",
+  image: "/judges/Jaival_Vikal.jpeg",
+  expertise: "Agentic AI, Sales Engineering, Product Management",
+  linkedin: "https://www.linkedin.com/in/jaivalvikal",
+  email: "jaival@vikalconsultinggroup.com"
 }
   ];
   return (
