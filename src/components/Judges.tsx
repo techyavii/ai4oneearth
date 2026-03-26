@@ -229,6 +229,24 @@ const Judges = () => {
   expertise: "Agentic AI, Sales Engineering, Product Management",
   linkedin: "https://www.linkedin.com/in/jaivalvikal",
   email: "jaival@vikalconsultinggroup.com"
+},
+{
+  name: "Akshay Kumar Darla",
+  affiliation: "Sr. Software Engineer, Tata Consultancy Services",
+  location: "",
+  image: "/judges/Akshay_Kumar_Darla.jpeg",
+  expertise: "Usage/inclusion of AI in Health sector",
+  linkedin: "https://www.linkedin.com/in/akshaykumardarla?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
+  email: "akshaykumardarla96@gmail.com"
+},
+{
+  name: "Yalamanchili Ravi krishna",
+  affiliation: "QA Data Analyst, Brightspring Health services",
+  location: "",
+  image: "/judges/Yalamanchili_Ravi_Krishna.jpeg",
+  expertise: "AI & Data Science",
+  linkedin: "https://www.linkedin.com/in/ravi-krishna-yalamanchili-4813b43b1?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
+  email: "yalamanchili.ravikrishna98@gmail.com"
 }
   ];
   return (
