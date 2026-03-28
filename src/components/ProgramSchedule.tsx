@@ -89,11 +89,10 @@ OneEarth
                 </p>
               </div>
               <Button
-              disabled
                 className="w-full py-6 mb-4 font-bold text-lg"
                 onClick={() =>
                   window.open(
-                    "https://drive.google.com/file/d/1f0wQQDYRpkCJ9GX4QxLOro4KclwyBq-B/view?usp=sharing",
+                    "https://docs.google.com/spreadsheets/d/1KuGtb5cP3iOBgM5Ad5Zmlw5gRPLyXkoXiAlSuHe4tMM/edit?usp=sharing",
                     "_blank"
                   )
                 }
@@ -101,9 +100,8 @@ OneEarth
                 Day-1 Shortlisted Teams
               </Button> 
               <Button
-                disabled
                 className="w-full"
-                onClick={() => window.open("https://us06web.zoom.us/j/84292594940?pwd=Cvn92JVqKuTS2lTxEjtPPLcJN2gSx9.1", "_blank")}
+                onClick={() => window.open("https://us06web.zoom.us/j/88289871936?pwd=XmBu9Gn6t0fgOoH0AwEEkQ8bt6s443.1", "_blank")}
               >
                 <Video className="w-4 h-4 mr-2" />
                 Join Session
