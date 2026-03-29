@@ -215,7 +215,7 @@ const Judges = () => {
 {
   name: "Lourdu Akhila Yeruva",
   affiliation: "Sr. AI Infra Solutions Engineer, AMD",
-  location: "",
+  location: "USA",
   image: "/judges/Lourdu_Akhila_Yeruva.jpeg",
   expertise: "AI, Infrastructure, Cloud Computing",
   linkedin: "https://www.linkedin.com/in/8azyb",
@@ -224,7 +224,7 @@ const Judges = () => {
 {
   name: "Jaival Vikal",
   affiliation: "Founder / CEO, Vikal Consulting Group",
-  location: "",
+  location: "USA",
   image: "/judges/Jaival_Vikal.jpeg",
   expertise: "Agentic AI, Sales Engineering, Product Management",
   linkedin: "https://www.linkedin.com/in/jaivalvikal",
@@ -233,7 +233,7 @@ const Judges = () => {
 {
   name: "Akshay Kumar Darla",
   affiliation: "Sr. Software Engineer, Tata Consultancy Services",
-  location: "",
+  location: "USA",
   image: "/judges/Akshay_Kumar_Darla.jpeg",
   expertise: "Usage/inclusion of AI in Health sector",
   linkedin: "https://www.linkedin.com/in/akshaykumardarla?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
@@ -242,11 +242,20 @@ const Judges = () => {
 {
   name: "Yalamanchili Ravi krishna",
   affiliation: "QA Data Analyst, Brightspring Health services",
-  location: "",
+  location: "USA",
   image: "/judges/Yalamanchili_Ravi_Krishna.jpeg",
   expertise: "AI & Data Science",
   linkedin: "https://www.linkedin.com/in/ravi-krishna-yalamanchili-4813b43b1?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
   email: "yalamanchili.ravikrishna98@gmail.com"
+},
+{
+  name: "Nishant Garg",
+  affiliation: "Software Development Manager (Managing 3 teams of total size 30 tech employees), Amazon",
+  location: "USA",
+  image: "/judges/Nishant_Garg.jpeg",
+  expertise: "Distributed Systems, Generative AI, Engineering Management",
+  linkedin: "https://www.linkedin.com/in/nishantgarg13/",
+  email: "gargnishant1924@gmail.com"
 }
   ];
   return (
