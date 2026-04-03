@@ -256,6 +256,15 @@ const Judges = () => {
   expertise: "Distributed Systems, Generative AI, Engineering Management",
   linkedin: "https://www.linkedin.com/in/nishantgarg13/",
   email: "gargnishant1924@gmail.com"
+},
+{
+  "name": "Sneha Shambula",
+  "affiliation": "Senior Software Engineer, Amazon Web Services (AWS)",
+  "location": "",
+  "image": "/judges/Sneha_Shambula.jpeg",
+  "expertise": "Cloud Infrastructure Resilience",
+  "linkedin": "https://www.linkedin.com/in/snehashambula",
+  "email": "sheissneha9@gmail.com"
 }
   ];
   return (
