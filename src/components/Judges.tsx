@@ -260,7 +260,7 @@ const Judges = () => {
 {
   "name": "Sneha Shambula",
   "affiliation": "Senior Software Engineer, Amazon Web Services (AWS)",
-  "location": "",
+  "location": "USA",
   "image": "/judges/Sneha_Shambula.jpeg",
   "expertise": "Cloud Infrastructure Resilience",
   "linkedin": "https://www.linkedin.com/in/snehashambula",
@@ -269,13 +269,31 @@ const Judges = () => {
 {
   "name": "Vignesh Kamath",
   "affiliation": "Senior Software Engineer, Snowflake",
-  "location": "",
+  "location": "USA",
   "image": "/judges/Vignesh_Kamath.jpeg",
   "expertise": "AI Agent Orchestration, Data Platform, Full Stack Applications",
   "linkedin": "https://www.linkedin.com/in/vignesh-kamath-47957690",
   "email": "vigneshkamath3193@gmail.com"
-}
-  ];
+},
+  {
+    "name": "Saurabh Hitendra Patel",
+    "affiliation": "RF Leader, Amdocs",
+    "location": "USA",
+    "image": "/judges/Saurabh_Hitendra_Patel.jpeg",
+    "expertise": "RF, RAN, Machine Learning",
+    "linkedin": "https://www.linkedin.com/in/saurabhhitendrapatel",
+    "email": "patelsaurabh925@gmail.com"
+  },
+  {
+    "name": "Maheshkumar Sachani",
+    "affiliation": "Computer System Engineer, SVTronics Inc",
+    "location": "USA",
+    "image": "/judges/Maheshkumar_Sachani.jpeg",
+    "expertise": "SAP ERP Technical Architecture",
+    "linkedin": "https://www.linkedin.com/in/mahesh-sachani/",
+    "email": "sachanimahesh17@gmail.com"
+  }
+]
   return (
     <section id="judges" className="py-20 bg-gradient-subtle">
       <div className="container mx-auto px-4">
