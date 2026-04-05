@@ -265,6 +265,15 @@ const Judges = () => {
   "expertise": "Cloud Infrastructure Resilience",
   "linkedin": "https://www.linkedin.com/in/snehashambula",
   "email": "sheissneha9@gmail.com"
+},
+{
+  "name": "Vignesh Kamath",
+  "affiliation": "Senior Software Engineer, Snowflake",
+  "location": "",
+  "image": "/judges/Vignesh_Kamath.jpeg",
+  "expertise": "AI Agent Orchestration, Data Platform, Full Stack Applications",
+  "linkedin": "https://www.linkedin.com/in/vignesh-kamath-47957690",
+  "email": "vigneshkamath3193@gmail.com"
 }
   ];
   return (
