@@ -292,7 +292,16 @@ const Judges = () => {
     "expertise": "SAP ERP Technical Architecture",
     "linkedin": "https://www.linkedin.com/in/mahesh-sachani/",
     "email": "sachanimahesh17@gmail.com"
-  }
+  },
+  {
+  "name": "Jayesh Radadiya",
+  "affiliation": "Electrical Engineer, Meta",
+  "location": "USA",
+  "image": "/judges/Jayesh_Radadiya.jpeg",
+  "expertise": "Electrical Engineering, Biomedical Engineering",
+  "linkedin": "https://www.linkedin.com/in/jayeshee/",
+  "email": "jayesh.radadiya1959@gmail.com"
+}
 ]
   return (
     <section id="judges" className="py-20 bg-gradient-subtle">
