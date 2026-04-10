@@ -301,6 +301,52 @@ const Judges = () => {
   "expertise": "Electrical Engineering, Biomedical Engineering",
   "linkedin": "https://www.linkedin.com/in/jayeshee/",
   "email": "jayesh.radadiya1959@gmail.com"
+},
+{
+    "name": "Bakul Singhal",
+    "affiliation": "Information Security Architect, Steven Madden Ltd.",
+    "location": "New York, USA - 11104",
+    "image": "/judges/Bakul_Singhal.jpeg",
+    "expertise": "IT Security",
+    "linkedin": "",
+    "email": "bakulyk86@gmail.com",
+    "orcid": "0009-0005-8022-7671"
+  },
+  {
+    "name": "Mitesh Shah",
+    "affiliation": "Sr. Lead Product Manager, PayPal Inc.",
+    "location": "USA",
+    "image": "/judges/Mitesh_Shah.jpeg",
+    "expertise": "AI, Personalization, Fintech",
+    "linkedin": "https://www.linkedin.com/in/mitesh-shah-19673039",
+    "email": "shah.mitesh1989@gmail.com"
+  },
+  {
+    "name": "Janardhana Naidu Kola",
+    "affiliation": "Director, Business Intelligence, ADP (Automatic Data Processing, Inc.)",
+    "location": "USA",
+    "image": "/judges/Janardhana_Kola.jpeg",
+    "expertise": "Enterprise Analytics",
+    "linkedin": "https://www.linkedin.com/in/janardhana-kola",
+    "email": "reachjanardhanakola@gmail.com"
+  },
+  {
+    "name": "Deepak Venkateshappa",
+    "affiliation": "Data Engineering Architect, Meta (Ex LinkedIn)",
+    "location": "USA",
+    "image": "/judges/Deepak_Venkateshappa.jpeg",
+    "expertise": "Big Data Engineering, AI ML",
+    "linkedin": "https://www.linkedin.com/in/deepak-venkateshappa-9aa019aa/",
+    "email": "Deepak.v10@gmail.com"
+  },
+  {
+  "name": "Prateek Dwivedi",
+  "affiliation": "AI Innovation Developer, Tetonic AI",
+  "location": "USA",
+  "image": "/judges/Prateek_Dwivedi.jpeg",
+  "expertise": "AI, Data, Sustainability",
+  "linkedin": "https://www.linkedin.com/in/dprateek",
+  "email": "prateek.dwivedi@columbia.edu"
 }
 ]
   return (
