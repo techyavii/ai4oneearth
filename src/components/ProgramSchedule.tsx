@@ -128,11 +128,10 @@ OneEarth
                 </p>
               </div>
               <Button
-              disabled
                 className="w-full py-6 mb-4 font-bold text-lg"
                 onClick={() =>
                   window.open(
-                    "https://drive.google.com/file/d/1arcB7bF8zF1gKoGRtH3Qd6v1ZoOOt4A0/view?usp=sharing",
+                    "https://drive.google.com/file/d/1DinsLPCJ1oMYdWNxDdLaNeUGRj9u8SMS/view?usp=sharing",
                     "_blank"
                   )
                 }
@@ -142,7 +141,7 @@ OneEarth
               <Button
               disabled
                 className="w-full"
-                onClick={() => window.open("https://us06web.zoom.us/j/89314386136?pwd=IDTqbgbsYq8aScETddbfpZsoOZnljy.1", "_blank")}
+                onClick={() => window.open("https://us06web.zoom.us/j/82524425157?pwd=FaiIaPYdgJAhS97KQmT6AUWq79pZDy.1", "_blank")}
               >
                 <Video className="w-4 h-4 mr-2" />
                 <Award className="w-4 h-4 mr-2" />
