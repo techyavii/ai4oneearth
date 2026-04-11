@@ -139,7 +139,6 @@ OneEarth
                 Day-2 Shortlisted Teams
               </Button> 
               <Button
-              disabled
                 className="w-full"
                 onClick={() => window.open("https://us06web.zoom.us/j/82524425157?pwd=FaiIaPYdgJAhS97KQmT6AUWq79pZDy.1", "_blank")}
               >
