@@ -1,5 +1,15 @@
 {
     "rewrites": [
         {"source": "/(.*)", "destination": "/"}
+    ],
+    "routes": [
+        {
+            "src": "/(.*\\.(pdf|zip|png|jpg|jpeg|svg|txt))",
+            "dest": "/$1"
+        },
+        {
+            "src": "/(.*)",
+            "dest": "/index.html"
+        }
     ]
 }
