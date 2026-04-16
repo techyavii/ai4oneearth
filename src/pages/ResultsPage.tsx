@@ -29,10 +29,7 @@ const ResultsPage = () => {
         <div className="max-w-6xl mx-auto text-center">
           {/* Header */}
           <h1 className="text-4xl font-bold text-[#1b4332]">
-            AI Tool Development Challenge 2026
-on
-OneEarth
-
+            AI Tool Development Challenge 2026 on OneEarth
           </h1>
           <p className="mt-4 text-gray-600 max-w-2xl mx-auto">
             Official results and feedback from our winning teams.
@@ -41,7 +38,7 @@ OneEarth
           {/* Results Button */}
           <div className="mt-10">
             <a
-              href="https://drive.google.com/file/d/1464NfCY8P0-XdI7P_Gbk4FKYRtqfz3jv/view?usp=sharing"
+              href="https://drive.google.com/file/d/1aDVCyD5qChA-LVxd3SK6z97njsh5lrZ6/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 bg-[#2d6a4f] text-white px-8 py-4 rounded-xl font-semibold text-lg hover:bg-[#1b4332] transition"
@@ -50,8 +47,7 @@ OneEarth
             </a>
           </div>
 
-          {/* Feedback Videos */}
-          <section className="mt-20">
+          {/* <section className="mt-20">
             <h2 className="text-2xl font-semibold text-[#1b4332] mb-8">
               🎥 Feedback from Winning Teams
             </h2>
@@ -65,7 +61,6 @@ OneEarth
                   rel="noopener noreferrer"
                   className="group bg-white rounded-2xl shadow hover:shadow-lg transition p-6 text-left"
                 >
-                  {/* Thumbnail Placeholder */}
                   <div className="h-40 bg-[#e9f5ef] rounded-xl flex items-center justify-center text-5xl group-hover:scale-105 transition">
                     ▶️
                   </div>
@@ -83,7 +78,7 @@ OneEarth
                 </a>
               ))}
             </div>
-          </section>
+          </section> */}
         </div>
       </div>
 
